@@ -1,0 +1,1 @@
+katalonc -noSplash -runMode=console -projectPath="C:\Users\bertd\Katalon Studio\Cursus1\Cursus1.prj" -retry=0 -testSuitePath="Test Suites/TestSuiteOne" -browserType="Chrome" -executionProfile="default" -apiKey="757d3b70-5ad6-408b-b4cf-4a1a259eb7b2" --config -proxy.auth.option=NO_PROXY -proxy.system.option=NO_PROXY -proxy.system.applyToDesiredCapabilities=true
